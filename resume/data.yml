@@ -36,7 +36,7 @@ experience:
   timeperiod: July 2015 - May 2016
   descriptions:
     - Wrote client-side code in IBM's Websphere as part of A&F's frontend e-commerce development team
-    - Wrote code for all 3 of A&F's brands using JS/ES6, HTML5, and CSS3/SCSS
+    - Wrote code for all 3 of A&F's brands using JS/ES6, HTML5, CSS3/SCSS, as well as creating and editing JSP files
     - Wrote semantic and modularized code following best practices and common JS practices
     - Wrote JS following the TDD standard and utilizing such tools as Jasmine and Karma
     # - Wrote basic SQL queries for migration used during each bi-weekly release

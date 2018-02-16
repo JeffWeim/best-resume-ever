@@ -350,7 +350,7 @@ h4 {
     }
 
     .info {
-      font-size: 14px;
+      font-size: 13px;
       line-height: 15.75px;
       color: rgba(0, 0, 0, 0.870588);
       margin-bottom: 0;
