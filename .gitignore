@@ -12,3 +12,11 @@ firefox_root/
 GeckoChildCrash*
 electroshot-config.json
 tmpaddon*
+pdf/*
+pdf/left-right.pdf
+pdf/left-right-rtl.pdf
+pdf/material-dark.pdf
+pdf/oblique.pdf
+pdf/purple.pdf
+pdf/side-bar.pdf
+pdf/side-bar-rtl.pdf
