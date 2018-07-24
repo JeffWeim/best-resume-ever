@@ -241,7 +241,7 @@ a {
   font-size: 10pt;
   opacity: 0.8;
   margin-left: 20px;
-  margin-top: 22px;
+  margin-top: 16px;
   margin-bottom: 10px;
   color: #3f3d3c;
 }
