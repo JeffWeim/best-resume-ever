@@ -67,7 +67,7 @@ tools:
 - name: Jira Workflow
 - name: SCSS using BEM
 - name: ESLint
-- name: Code Reviews via Githubß
+- name: Code Reviews via Github
 
 projects:
 - name: best-resume-ever
