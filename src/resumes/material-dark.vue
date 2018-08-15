@@ -238,7 +238,7 @@ a {
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: 3px;
-  font-size: 10pt;
+  font-size: 12.25px;
   opacity: 0.8;
   margin-left: 20px;
   margin-top: 16px;
