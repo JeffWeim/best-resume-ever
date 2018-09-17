@@ -12,8 +12,8 @@ birth:
 
 experience:
 - company: Envoy Group
-  position: Frontend Developer
-  timeperiod: since December 2016
+  position: Lead Frontend Developer
+  timeperiod: Since December 2016
   descriptions:
     - Build scalable codebases by architecting and delivering code solutions with best practices in mind
     - Work with common frontend tools & technologies including JS/ES6, CSS3/SCSS, Webpack + Gulp, and Vue + React
