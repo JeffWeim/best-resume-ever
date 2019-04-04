@@ -7,31 +7,48 @@ about: I'm a Frontend Developer with 7+ years of experience writing Javascript, 
 position: Frontend Developer
 
 birth:
-  year:
+  year: 1989
   location: Columbus, OH
 
 experience:
-- company: Envoy Group
-  position: Lead Frontend Developer
-  timeperiod: Since December 2016
+- company: Pivot
+  companyUrl: https://www.thinkpivot.io/
+  position: Senior UI Developer
+  timeperiod: January 2019 - Present
   descriptions:
-    - Build scalable codebases by architecting and delivering code solutions with best practices in mind
-    - Work with common frontend tools & technologies including JS/ES6, CSS3/SCSS, Webpack + Gulp, and Vue + React
-    - Collaborate with art directors, project managers, and designers to develop websites and web apps
-    - Stay up-to-date with modern frontend technologies and best practices and work to find applicable uses for each of these
-    - Perform peer code reviews to learn from colleagues and to help coach my colleagues
+    - Build scalable/maintainable websites and SPAs for clients using HTML5, CSS3, and JS/ES6
+    - Translate Sketch and PSD files into clean and organized code
+    - Understand and implement functional requirements and work to shape the best UX
+    - Collaborate with design, UX and business stakeholders to ensure all end requirements are met
+    - Generate documentation for both internal technical understanding as well as for clients
+    - Work alongside a team of developers to establish coding best practices
+    - Stay up-to-date and discover the latest technology trends and find practical uses for them
+
+- company: Envoy
+  companyUrl: https://www.weareenvoy.com/
+  position: Frontend Lead
+  timeperiod: December 2016 - January 2019
+  descriptions:
+    - Built scalable codebases by architecting and delivering code solutions with best practices in mind
+    - Continuously provided estimates and scoping on the projects being worked on
+    - Collaborated with art directors, project managers, and designers to develop websites and web apps
+    - Stayed up-to-date with modern frontend technologies and best practices and worked to find applicable uses for each
+    - Performed peer code reviews to learn from colleagues and to help coach the web team
+    - Ensured team was able to focus on tasks at hand by alleviating blockers and helping with any issues
 
 - company: Dynamit Technologies
+  companyUrl: https://www.dynamit.com/
   position: Frontend Developer
   timeperiod: May 2016 - December 2016
   descriptions:
-    - Worked on over 8 different large-scale client projects including Hilton, Alliance Data, Donatos Pizza, and Tire Discounters
-    - Work with common frontend tools & technologies including JS/ES6, CSS3/SCSS, Gulp, and Vue
-    - Worked on a spectrum of different types of projects such as e-commerce, web application, and business marketing sites
-    - Worked to find the right technology stack and tooling for each project I worked on
-    - Worked each day to apply new ideas and technologies to the work I was doing and to help spread that knowledge with my colleagues
+    - Developed applications, reviewed/interpreted requirements, worked with designers, account/project managers, & QA to built large scale consumer facing products
+    - Worked with team of PHP and .NET developers creating and implementing APIs for client projects
+    # - Worked on over 8 different large-scale client projects including Hilton & Alliance Data
+    # - Worked to find the right technology stack and tooling for each project I worked on
+    # - Worked each day to apply new ideas and technologies to the work I was doing and to help spread that knowledge with my colleagues
 
 - company: Abercrombie & Fitch
+  companyUrl: https://www.abercrombie.com
   position: Frontend Developer
   timeperiod: July 2015 - May 2016
   descriptions:
@@ -46,12 +63,12 @@ education:
 - degree: Associate of Applied Science
   timeperiod: 2015
   descriptions:
-    - Major in Web development, Sinclair CC, Dayton, OH
+    - Web Development, Sinclair C.C., Dayton, OH
 
 - degree: Bachelor of Arts
   timeperiod: 2011
   descriptions:
-    - Major in Economics, The Ohio State University, Columbus, OH
+    - Economics, The Ohio State University, Columbus, OH
 
 skills:
 - name: HTML5
