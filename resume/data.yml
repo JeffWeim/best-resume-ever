@@ -11,30 +11,30 @@ birth:
   location: Columbus, OH
 
 experience:
-- company: Pivot
-  companyUrl: https://www.thinkpivot.io/
-  position: Senior UI Developer
-  timeperiod: January 2019 - Present
-  descriptions:
-    - Build scalable/maintainable websites and SPAs for clients using HTML5, CSS3, and JS/ES6
-    - Translate Sketch and PSD files into clean and organized code
-    - Understand and implement functional requirements and work to shape the best UX
-    - Collaborate with design, UX and business stakeholders to ensure all end requirements are met
-    - Generate documentation for both internal technical understanding as well as for clients
-    - Work alongside a team of developers to establish coding best practices
-    - Stay up-to-date and discover the latest technology trends and find practical uses for them
+  - company: Pivot
+    companyUrl: https://www.thinkpivot.io/
+    position: Senior UI Developer
+    timeperiod: January 2019 - Present
+    descriptions:
+      - Build scalable/maintainable websites and SPAs for clients using HTML5, CSS3, and JS/ES6
+      - Translate Sketch and PSD files into clean and organized code
+      - Understand and implement functional requirements and work to shape the best UX
+      - Collaborate with design, UX and business stakeholders to ensure all end requirements are met
+      - Generate documentation for both internal technical understanding as well as for clients
+      - Work alongside a team of developers to establish coding best practices
+      - Stay up-to-date and discover the latest technology trends and find practical uses for them
 
-- company: Envoy
-  companyUrl: https://www.weareenvoy.com/
-  position: Frontend Lead
-  timeperiod: December 2016 - January 2019
-  descriptions:
-    - Built scalable codebases by architecting and delivering code solutions with best practices in mind
-    - Continuously provided estimates and scoping on the projects being worked on
-    - Collaborated with art directors, project managers, and designers to develop websites and web apps
-    - Stayed up-to-date with modern frontend technologies and best practices and worked to find applicable uses for each
-    - Performed peer code reviews to learn from colleagues and to help coach the web team
-    - Ensured team was able to focus on tasks at hand by alleviating blockers and helping with any issues
+  - company: Envoy
+    companyUrl: https://www.weareenvoy.com/
+    position: Frontend Lead
+    timeperiod: December 2016 - January 2019
+    descriptions:
+      - Built scalable codebases by architecting and delivering code solutions with best practices in mind
+      - Continuously provided estimates and scoping on the projects being worked on
+      - Collaborated with art directors, project managers, and designers to develop websites and web apps
+      - Stayed up-to-date with modern frontend technologies and best practices and worked to find applicable uses for each
+      - Performed peer code reviews to learn from colleagues and to help coach the web team
+      - Ensured team was able to focus on tasks at hand by alleviating blockers and helping with any issues
 
 - company: Dynamit Technologies
   companyUrl: https://www.dynamit.com/
@@ -60,15 +60,15 @@ experience:
     # - Worked in agile environment to quickly implement new business requirements
 
 education:
-- degree: Associate of Applied Science
-  timeperiod: 2015
-  descriptions:
-    - Web Development, Sinclair C.C., Dayton, OH
+  - degree: Associate of Applied Science
+    timeperiod: 2015
+    descriptions:
+      - Web Development, Sinclair C.C., Dayton, OH
 
-- degree: Bachelor of Arts
-  timeperiod: 2011
-  descriptions:
-    - Economics, The Ohio State University, Columbus, OH
+  - degree: Bachelor of Arts
+    timeperiod: 2011
+    descriptions:
+      - Economics, The Ohio State University, Columbus, OH
 
 skills:
 - name: HTML5
@@ -80,11 +80,11 @@ skills:
 - name: Git and Gitflow
 
 tools:
-- name: Git
-- name: Jira Workflow
-- name: SCSS using BEM
-- name: ESLint
-- name: Code Reviews via Github
+  - name: Git
+  - name: Jira Workflow
+  - name: SCSS using BEM
+  - name: ESLint
+  - name: Code Reviews via Github
 
 projects:
 - name: best-resume-ever
@@ -94,18 +94,18 @@ projects:
   url: https://github.com/salomonelli/best-resume-ever
 
 hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
+  - name: Video Games
+    iconClass: fa fa-gamepad
+    url: https://example.com
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+  - name: Drawing
+    iconClass: fa fa-pencil
+    url: https://example.com
 
 contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+  - name: best-resume-ever
+    description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+    url: https://github.com/salomonelli/best-resume-ever
 
 contact:
   email: jeffreyaweimer@gmail.com
